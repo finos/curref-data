@@ -3,7 +3,6 @@ name: "Enrollment in the specification process"
 about: Create this pull request to abide to the terms to participate to this project
 title: Enrollment in the specification process
 labels: enrollment
-
 ---
 
 
