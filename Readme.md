@@ -2,7 +2,7 @@
 # Currency Reference Data Project
 
 # Overview
-[Collaborating on a Model and Data Standard](https://www.youtube.com/watch?v=aIpYLu4PrLs&list=PLbzoR-pLrL6qpva7J9joOU5Nvx_A_ax_L&index=28) - Presentation by Vijayesh Chandel & Elaine Fraser, Goldman Sachs & Sailesh Pandey, Nomura, at the [October 2021 Open Source Strategy Forum](https://events.linuxfoundation.org/open-source-strategy-forum/) in London.
+[Collaborating on a Model and Data Standard](https://www.youtube.com/watch?v=aIpYLu4PrLs&list=PLbzoR-pLrL6qpva7J9joOU5Nvx_A_ax_L&index=28) -- Presentation by Vijayesh Chandel & Elaine Fraser, Goldman Sachs & Sailesh Pandey, Nomura, at the [October 2021 Open Source Strategy Forum](https://events.linuxfoundation.org/open-source-strategy-forum/) in London.
 
 # Roadmap
 The objective of this project is to create a standard object to represent currency data and create a central cloud based repository of the currency data. 
