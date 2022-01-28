@@ -1,4 +1,8 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
+
+<img src="https://github.com/finos/branding/blob/master/project-logos/active-project-logos/currency-reference-data/2022_CRD_Logo_Horizontal.jpg" width="250">
+
+
 # Currency Reference Data Project
 
 # Overview
