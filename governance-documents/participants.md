@@ -2,8 +2,8 @@
 Below is the list of [participants](https://github.com/finos/curref-data/blob/testing-updates/governance-documents/5._Governance.md#1roles) in the Currency Reference Data project, who have committed to the [Community Specification Contributor License Agreement](https://github.com/finos/curref-data/blob/testing-updates/governance-documents/.0_CS_Contributor_License_Agreement.md).
 
 ## Participants
-- Name, organization, Date of enrollment: MM/DD/YYYY
-- 
+- Name, organization, Date of enrollment: MMM/DD/YYYY
+- Aitana Myohl, FINOS, FEB/08/2022
 - 
 -  
 - 
