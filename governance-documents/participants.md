@@ -3,9 +3,10 @@ Below is the list of [participants](https://github.com/finos/curref-data/blob/te
 
 ## Participants
 - Name, organization, Date of enrollment: MMM/DD/YYYY
-- Aitana Myohl, FINOS, FEB/08/2022
+- Aitana Myohl, FINOS, FEB/21/2022
 - Elaine Fraser, Goldman Sachs, FEB/08/2022
 - Juan Estrella, FINOS, FEB/08/2022
+- Vijayesh Chandel, Goldman Sachs, FEB/21/2022
 - 
 - 
 - 
