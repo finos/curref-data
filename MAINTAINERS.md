@@ -4,8 +4,8 @@ This file lists the maintainers of this repository.
 
 ## Current maintainers
 
-| GitHub Username | Name | Organization | Email |
-|----------------|------|--------------|-------|
+| GitHub Username | Name | Organization | Email (optional) |
+|----------------|------|--------------|------------------|
 | @ElaineFraser | *please add name* | Goldman Sachs |  |
 | @Vijayesh-Chandel | *please add name* | *please add organization* |  |
 
