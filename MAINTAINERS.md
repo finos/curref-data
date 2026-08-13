@@ -6,8 +6,8 @@ This file lists the maintainers of this repository.
 
 | GitHub Username | Name | Organization | Email |
 |----------------|------|--------------|-------|
-| @ElaineFraser | *please add name* | Goldman Sachs | *please add email* |
-| @Vijayesh-Chandel | *please add name* | *please add organization* | *please add email* |
+| @ElaineFraser | *please add name* | Goldman Sachs |  |
+| @Vijayesh-Chandel | *please add name* | *please add organization* |  |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
